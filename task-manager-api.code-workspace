@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../task-manager-api"
+		},
+		{
+			"path": "../task-manager-frontend"
+		}
+	]
+}

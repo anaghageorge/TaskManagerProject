@@ -2,7 +2,7 @@ const express = require("express");
 const dotenv = require("dotenv");
 const cors = require("cors"); // 👈 1. IMPORT CORS HERE
 const connectDB = require("./config/db");
-const Task = require("./models/Task");
+const Task = require("./models/task");
 
 // Routes
 const authRoutes = require("./routes/authRoutes");
