@@ -1,0 +1,6 @@
+task-manager-api/node_modules
+task-manager-api/.env
+
+task-manager-frontend/node_modules
+task-manager-frontend/.env
+task-manager-frontend/dist
